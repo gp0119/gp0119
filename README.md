@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, this is ganpeng. :wave: ![Profile View Counter](https://komarev.com/ghpvc/?username=gp0119)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gp0119&show_icons=true&theme=onedark)
 
 <!--
 **gp0119/gp0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
